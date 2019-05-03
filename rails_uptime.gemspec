@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["m1kh41l.melnyk@gmail.com"]
 
   spec.summary       = %q{Rails application Up Time}
-  spec.description   = %q{Rails application Up ime}
+  spec.description   = %q{Rails application Up Time}
   spec.homepage      = "https://github.com/sOM2H/rails_uptime"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
