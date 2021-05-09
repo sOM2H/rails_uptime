@@ -17,7 +17,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-Rails::uptime # => "54:39"
+Rails::uptime # => "{:d=>5, :h=>13, :m=>45, :s=>32}"
 ```
 
 ## License
